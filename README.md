@@ -20,13 +20,13 @@ All of my Tableau Projects are available on my Tableau Public Profile: [<ins>Cli
 ![image](https://github.com/AlexPraporgescu/Tableau-Projects/assets/158141333/7b078cc0-dd0c-4620-a552-6c46a73cb57a)
 ![image](https://github.com/AlexPraporgescu/Tableau-Projects/assets/158141333/19346f82-0474-4eec-91f0-b98d631b0820)
 
-  ### <ins>References</ins>
+  ## <ins>References</ins>
 
 1. [Youtube](https://www.youtube.com/)
 2. [Our World in Data](https://ourworldindata.org/coronavirus)
 3. [Kaggle.com](https://www.kaggle.com/)
 
-  ### <ins>Notes</ins>
+  ## <ins>Notes</ins>
 
 - These projects represent my practice work in the field of data analysis. The data used may no longer be relevant and therefore the findings should be treated in accordance.
 - For more details about me and my work, or if you want to get in touch with me, please access my [LinkedIn profile](https://www.linkedin.com/in/alexpraporgescu/).
